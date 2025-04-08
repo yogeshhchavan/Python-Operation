@@ -8,7 +8,7 @@ brands.append("Intel")
 print(brands)
 
 #output#
-['Coke', 'Aplle', 'Google', 'Microsoft', 'Toyota']
-5
-['Coke', 'Aplle', 'Google', 'Microsoft', 'Toyota', 'Intel']
+#['Coke', 'Aplle', 'Google', 'Microsoft', 'Toyota']
+#5
+#['Coke', 'Aplle', 'Google', 'Microsoft', 'Toyota', 'Intel']
 
